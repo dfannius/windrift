@@ -36529,7 +36529,7 @@
 	      null,
 	      'Nested List demo'
 	    ),
-	    React.createElement(_windrift.NestedList, { expansions: '[[The(world\'s largest)economy][grew(at[an(annual)rate]of 2.9%)](according to the Commerce Department)]', tag: 'tag', ellipsis: '*' })
+	    React.createElement(_windrift.NestedList, { expansions: '[[The(world\'s largest)economy][grew(at[an(annual)rate]of 2.9%)](according to the Commerce Department)]', tag: 'tag' })
 	  )];
 	  return React.createElement(_windrift.RenderSection, { currentSection: currentSection, sections: sections });
 	};
